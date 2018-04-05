@@ -105,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        //Aqui sucede la magia del intent
+        //Aqui se envian los datos recolectados arriba
 
         buttonOk.setOnClickListener(new View.OnClickListener() {
             @Override
